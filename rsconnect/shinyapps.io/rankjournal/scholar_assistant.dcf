@@ -1,0 +1,10 @@
+name: scholar_assistant
+title:
+username: rankjournal
+account: rankjournal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16309746
+bundleId: 11320397
+url: https://rankjournal.shinyapps.io/scholar_assistant/
+version: 1
