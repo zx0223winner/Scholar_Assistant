@@ -21,4 +21,4 @@ GitHub: https://github.com/zx0223winner/Scholar_Assistant
 ### Selection of journal:
 <img src="./Gallery/Figure5.png" alt="drawing" width="800"/>
 
-Citation: If you find this tool is useful, feel free to spread the ([GitHub link](https://github.com/zx0223winner/Scholar_Assistant)) with your colleagues.
+**Citation**: If you find this tool is useful, feel free to spread the ([GitHub link](https://github.com/zx0223winner/Scholar_Assistant)) with your colleagues.
