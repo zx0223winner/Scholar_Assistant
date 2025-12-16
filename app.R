@@ -53,7 +53,7 @@ ui <- page_navbar(
               fileInput("file", "Upload CAS journal database",
                         accept = c(".csv", ".tsv", ".txt")),
               tags$h6("Download example：",
-                      tags$a(href = "https://github.com/zx0223winner/journals/CAS_citation_2024.txt",
+                      tags$a(href = "https://github.com/zx0223winner/Scholar_Assistant/journals/CAS_citation_2024.txt",
                              "中科院分区表2024",
                              target = "_blank"),
                       "."),
