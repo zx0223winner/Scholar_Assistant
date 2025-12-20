@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="Gallery/logo_scholar_assistant.png" alt="Description" width="500" />
+</p>
+
 # Scholar_Assistant
 
 1. How to find top journals in a specific field?
@@ -20,5 +25,8 @@ GitHub: https://github.com/zx0223winner/Scholar_Assistant
 
 ### Selection of journal:
 <img src="./Gallery/Figure5.png" alt="drawing" width="800"/>
+
+### Declaration of generative AI and AI-assisted technologies 
+GitHub tool logo generation. Author reviewed and edited the content as needed and takes full responsibility for the content.
 
 **Citation**: If you find this tool is useful, feel free to spread the ([GitHub link](https://github.com/zx0223winner/Scholar_Assistant)) with your colleagues.
